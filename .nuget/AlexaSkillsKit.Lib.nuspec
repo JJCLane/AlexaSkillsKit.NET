@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>AlexaSkillsKit.NET</id>
+    <id>AlexaSkillsKit.NET.Core</id>
     <version>1.7.0</version>
     <title>AlexaSkillsKit.NET</title>
     <authors>Stefan Negritoiu (FreeBusy)</authors>
