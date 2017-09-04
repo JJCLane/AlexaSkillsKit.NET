@@ -3,7 +3,7 @@
   <metadata>
     <id>AlexaSkillsKit.NET.Core</id>
     <version>1.7.0</version>
-    <title>AlexaSkillsKit.NET</title>
+    <title>AlexaSkillsKit.NET.Core</title>
     <authors>Stefan Negritoiu (FreeBusy)</authors>
     <owners>Stefan Negritoiu (FreeBusy)</owners>
     <projectUrl>https://github.com/AreYouFreeBusy/AlexaSkillsKit.NET</projectUrl>
@@ -18,6 +18,7 @@
 1.4.0: Ability to override request validation policy and support for SSML output speech type
 1.5.0: Fully implement certificate verification requirement and support for Standard cards
 1.5.1: bug fix in certificate verification  
+1.7.0: Attempt to configure MyGet
     </releaseNotes>
     <copyright>Copyright 2016 Stefan Negritoiu (FreeBusy)</copyright>
     <tags>amazon echo alexa speechlet</tags>
