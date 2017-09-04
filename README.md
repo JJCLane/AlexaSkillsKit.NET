@@ -1,3 +1,5 @@
+[![alexaskillskitnet MyGet Build Status](https://www.myget.org/BuildSource/Badge/alexaskillskitnet?identifier=a6318525-7b76-47f7-9e19-ccde1d0e412c)](https://www.myget.org/)
+
 # AlexaSkillsKit.NET
 .NET library to write Alexa skills that's interface-compatible with [Amazon's AlexaSkillsKit for Java](https://github.com/amzn/alexa-skills-kit-java) and matches that functionality:
 * handles the (de)serialization of Alexa requests & responses into easy-to-use object models
